@@ -1,1 +1,2 @@
-# TryingPlankankul
+# TryingPlankankül
+I decided I had too much time,soooooooo,i decided to learn Plankankül!!The first programming language ever from the times of World War 2. No idea how you'll use it.............
